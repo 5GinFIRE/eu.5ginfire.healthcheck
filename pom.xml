@@ -37,7 +37,7 @@
 		<project.reporting.outputEncoding>${encoding}</project.reporting.outputEncoding>
 
 		<openjpa.version>2.4.2</openjpa.version>
-		<spring.version>4.3.14.RELEASE</spring.version>
+		<spring.version>5.2.21.RELEASE</spring.version>
 
 		<shiro.version>1.2.3</shiro.version>
 		<jetty.version>9.4.7.v20170914</jetty.version>
